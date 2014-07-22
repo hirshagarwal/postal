@@ -1,0 +1,22 @@
+@font-face{
+	font-family: Arual;
+	src: url("../fonts/arual.ttf");
+}
+#background{
+	font-family:arual;
+	//font-family: "Helvetica Neue", Helvetica, Arial, Geneva, sans-serif;
+	color: white;
+	text-align: center;
+	font-size: 100px;
+	position: relative;
+
+}
+#earth {
+	background: url("../images/earth.png") no-repeat center center;
+	width: 99%;
+	height: 98%;
+	display: block;
+	position: absolute;
+	margin-right: auto;
+	margin-left: auto;
+}

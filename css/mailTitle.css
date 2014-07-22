@@ -4,13 +4,12 @@
 }
 #background{
 	font-family:arual;
-	//font-family: "Helvetica Neue", Helvetica, Arial, Geneva, sans-serif;
 	color: white;
 	text-align: center;
 	font-size: 100px;
 	position: relative;
-
 }
+
 #earth {
 	background: url("../images/earth.png") no-repeat center center;
 	width: 99%;
